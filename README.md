@@ -21,4 +21,8 @@ Despues de verificar la conexion, salimos de la maquina web para hacer la prueba
 
 Se busco en el navegador del host http://192.168.56.16 y el resultado fue la pagina que tenemos en la carpeta /www. los resultados se pueden ver en la siguiente imagen.
 
+![Index html](/assets/indexFoto.png)
+
 La pagina php con los datos de la base de datos postgres se pueden apreciar en http://192.168.56.16/info.php, desplegando la informacion guardada, los registros se repiten, esto puede ser debido a la repetida accion de tener que depurar las maquinas y reiniciar los servicios para lograr el funciomiento esperado por el reto.
+
+![info php](/assets/infophpFoto.png)
